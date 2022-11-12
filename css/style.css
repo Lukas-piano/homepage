@@ -8,10 +8,6 @@ html {
 
 .body {
     max-width: 800px;
-    background-color: black;
+    background-color: #222;
     margin: 0 auto;
-}
-
-.title {
-    color: brown;
 }

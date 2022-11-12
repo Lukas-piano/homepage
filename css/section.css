@@ -1,0 +1,18 @@
+.section {
+    color: aliceblue;
+    background-color: aquamarine;
+}
+
+.section {
+    background-color: blue;
+}
+
+.section__title {
+    color: brown;
+    padding: 20px;
+}
+
+.section__discription {
+    color: antiquewhite;
+    background-color: antiquewhite;
+}
