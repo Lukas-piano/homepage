@@ -1,0 +1,17 @@
+.section__image {
+    background-image: url("../images/share.jpg");
+    max-width: 100%;
+    height: 1200px;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #eee;
+    text-shadow: -2px 2px 3px #111;
+    font-size: 68px;
+    padding: 60px 120px;
+}
+
+.section__image--second {
+    background-image: url("../images/Łukasz Forest Piechota - fortepian.jpg");
+}
